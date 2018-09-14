@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!vk_career_parse_one.ipynb
+!github_parse_test.ipynb
+!vk_parce_array.ipynb
